@@ -1,0 +1,6 @@
+../Core/Src/cipher_adfgvx.c:53:5:read_file	2
+../Core/Src/cipher_adfgvx.c:75:5:get_adfgvx_symbols	4
+../Core/Src/cipher_adfgvx.c:101:6:insert_symbol_to_column	1
+../Core/Src/cipher_adfgvx.c:119:6:polybius_encode_to_columns	3
+../Core/Src/cipher_adfgvx.c:146:6:transpose_columns_by_key_order	6
+../Core/Src/cipher_adfgvx.c:196:6:cipher_adfgvx	1
