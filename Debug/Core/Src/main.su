@@ -1,6 +1,10 @@
-../Core/Src/main.c:109:8:uart_send_string	16	static
-../Core/Src/main.c:68:5:main	208	dynamic
-../Core/Src/main.c:140:6:SystemClock_Config	80	static
-../Core/Src/main.c:179:13:MX_USART2_UART_Init	8	static
-../Core/Src/main.c:214:13:MX_GPIO_Init	48	static
-../Core/Src/main.c:255:6:Error_Handler	8	static,ignoring_inline_asm
+../Core/Src/main.c:116:12:get_adfgvx_symbols	32	static
+../Core/Src/main.c:141:13:insert_symbol_to_column	32	static
+../Core/Src/main.c:159:13:polybius_encode_to_columns	64	static
+../Core/Src/main.c:186:13:transpose_columns_by_key_order	88	dynamic
+../Core/Src/main.c:236:13:cipher_adfgvx	40	static
+../Core/Src/main.c:248:5:main	32	static
+../Core/Src/main.c:304:6:SystemClock_Config	80	static
+../Core/Src/main.c:342:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:376:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:407:6:Error_Handler	8	static,ignoring_inline_asm
